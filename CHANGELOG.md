@@ -1,4 +1,8 @@
 # Changelog
+## v2.0.6
+### Updated
+- GitHub repo to include dist/ in release commit (allow installing directly from GitHub repo rather than NPM)
+
 ## v2.0.5
 ### Fixed
 - Data port processor starting up every 5 seconds rather than every 5 minutes
