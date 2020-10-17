@@ -1,4 +1,8 @@
 # Changelog
+## v2.0.7
+### Updated
+- Local database client from nedb-core to nedb, as nedb-core was causing some issues
+
 ## v2.0.6
 ### Updated
 - GitHub repo to include dist/ in release commit (allow installing directly from GitHub repo rather than NPM)
