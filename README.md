@@ -56,7 +56,7 @@ A Discord bot framework built on top of [discord.js](https://github.com/discordj
 ## Built With
 - [TypeScript](https://www.typescriptlang.org/) - *language*
 - [discord.js](https://github.com/discordjs/discord.js) - *Discord library*
-- [NeDB Core](https://github.com/nedbhq/nedb-core) - *local database engine*
+- [NeDB](https://github.com/louischatriot/nedb) - *local database engine*
 - [MongoDB](https://github.com/mongodb/node-mongodb-native) - *remote database engine*
 - [Alsatian](https://github.com/alsatian-test/alsatian) - *test framework*
 - [TypeMoq](https://github.com/florinn/typemoq) - *mocking library*
