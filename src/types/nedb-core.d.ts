@@ -1,4 +1,4 @@
-declare module "nedb-core"
+declare module "nedb"
 
 declare class Persistence
 {
