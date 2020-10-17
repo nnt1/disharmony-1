@@ -1,4 +1,4 @@
-import * as Datastore from "nedb-core"
+import * as Datastore from "nedb"
 import { join } from "path"
 import { promisify } from "typed-promisify"
 import { NedbClientConfig } from "../models/internal/config"
